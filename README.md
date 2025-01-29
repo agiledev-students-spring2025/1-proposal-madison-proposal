@@ -12,10 +12,10 @@ As someone who meal plans each week, I would personally find a tool like this he
 I think this app targets people of all ages and groups, but the kinds of people who I want to specifically make this app for would be college students since many don't have time to try to meal plan on their own. I hope by introducing this app, this will encourage students to make more meals at home, save money from not eating out, and help them become healthier. 
 
 ## How?
--Frontend: JavaScript, React
--Backend: JavaScript, Express
--Database: MongoDB
--API: Chatgpt or another generative AI model
+- Frontend: JavaScript, React
+- Backend: JavaScript, Express
+- Database: MongoDB
+- API: Chatgpt or another generative AI model
 
 ## Scope
 I think this project can be done by 3-4 people this semester because there are a lot of aspects to consider when making this kind of app. There is a lot of user research needed to ensure that this app can fully meet user needs and solve most user pain points and having this many people can help bring different perspectives to it. Secondly, there will be dedicated time to train the AI model to suit the app's functions and allow for specific customizations for users. And lastly, I hope that we will spend a lot of time talking about the design choices for this app and make it appeal to many users and easy to use.  
